@@ -1,3 +1,4 @@
-# Header
+# An awesome cat
 
-## this is a subheading
+## that is fierce
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
